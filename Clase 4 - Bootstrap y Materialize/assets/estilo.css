@@ -1,0 +1,23 @@
+
+header {
+    background-color: purple;
+    color: white;
+    margin: 1rem;
+}
+
+/* Hola soy un comentario  */
+a {
+    color: white;
+}
+
+#listado-paginas {
+    display: flex;
+}
+
+.ruta-pagina {
+    margin: 1rem;
+}
+
+footer {
+    text-align: center;
+}
